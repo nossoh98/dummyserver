@@ -1,5 +1,5 @@
 const config = {
-    host: 'ec2-3-39-225-117.ap-northeast-2.compute.amazonaws.com',
+    host: 'ec2-43-201-24-29.ap-northeast-2.compute.amazonaws.com',// 카톡방에 최신화된 주소를 여기에 기입합니다.
     port: 3306,
     user: 'macro',
     password: 'macro',
