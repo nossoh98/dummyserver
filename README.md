@@ -2,7 +2,11 @@
  더미데이터 생성 및 테스트용 서버
 # 실행 방법
 
-npm run start로 실행</br>
+VsCode를 실행하고 ctrl+shift+~ 눌러 터미널을 연다.</br>
+서버 실행 명령어:</br>
+```bash
+npm run start
+```
 web에서 [localhost:3000](http://localhost:3000) 입력 시 현재 post_info json 형태 확인 가능</br>
 url 창에 [localhost:3000/post_info](http://localhost:3000/post_info)를 입력하면 json 형태로 쉽게 받아올 수 있다.</br>
 
